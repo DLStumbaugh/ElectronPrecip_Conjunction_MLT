@@ -1,5 +1,5 @@
 # ElectronPrecip_Conjunction_MLT
-A conjunction-trained artificial neural network (ANN) that requires low-Earth-orbit electron fluxes, L and MLT, Lat and Lon, MLat and MLon, and AE measurements as sole inputs
+A set of 5 conjunction-trained artificial neural network (ANN) that requires low-Earth-orbit electron fluxes, L and MLT, Lat and Lon, MLat and MLon, and AE measurements as sole inputs
 
 # Python Dependencies
 1. Python >= 3.11.7
